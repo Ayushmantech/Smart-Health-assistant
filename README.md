@@ -52,7 +52,7 @@ Smart Health Diagnostic Assistant project/
 ## ▶️ How to Run the Project
 
 Step 1 — Create Virtual Environment
-```bash
+
 conda create -n healthenv python=3.10
 conda activate healthenv
 
